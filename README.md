@@ -9,6 +9,7 @@
 
 ---
 Чтобы открыть в новой вкладке используй комбинацию: Клик + Ctrl (или Cmd на Mac):
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elena-ivanova-7864272b5/)
 [![CV](https://img.shields.io/badge/CV-red?style=flat-square)](https://disk.yandex.ru/i/Fp5iRHwM74rWBQ)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/einventions)
