@@ -9,10 +9,10 @@
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/elena-ivanova-7864272b5](https://www.linkedin.com/in/elena-ivanova-7864272b5/))  
-[![CV](https://img.shields.io/badge/CV-red?style=flat-square)](#)  
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](#)  
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elena-ivanova-7864272b5/)
+[![CV](https://img.shields.io/badge/CV-red?style=flat-square)](https://disk.yandex.ru/i/Fp5iRHwM74rWBQ)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/einventions)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/constructionhub)
 
 ---
 
