@@ -1,6 +1,6 @@
 <h1 align="center">Елена Иванова</h1>
 
-### Middle Business Analyst
+### Middle Business Analyst - ML, Data Science, Analytics, DevOps.
 
 ---
 Чтобы открыть в новой вкладке используй комбинацию: Клик + Ctrl (или Cmd на Mac):
