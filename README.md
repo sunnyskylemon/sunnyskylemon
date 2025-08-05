@@ -28,8 +28,8 @@
 | [Машинное обучение / ML](https://github.com/sunnyskylemon/ML) | `Python`, `NumPy`, `Keras`, `Pytorch`, `Sklearn` |
 | [Классическое машинное обучение / Calssical ML](https://github.com/sunnyskylemon/Classical-ML) | `Python`, `Pandas`, `NumPy` `Sklearn` |
 | [Архитектуры нейронных сетей / Neural Nets Architecture](https://github.com/sunnyskylemon/Neural-Nets) | `Python`, `NumPy`, `TensorFlow`, `Pytorch`, `Sklearn` |
-| [SQL и авиалинии](#) | `MySQL`, `Postgresql`, `PowerBI` |
-| [Токсичные комментарии](#) | `SciPy`, `TQDM` |
+| [SQL, аналитика и дашборды / Analytics & Dashboards](https://github.com/sunnyskylemon/SQL) | `MySQL`, `Postgresql`, `PowerBI` |
+| [Токсичные комментарии](https://github.com/sunnyskylemon/ML/blob/main/Toxic_Nontoxic_comments_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0.ipynb) | `Python`, `Pandas`, `NumPy` `Sklearn` |
 | [Оценка стоимости авто](#) | `Sklearn`, `Plotly`, `LightGBM` |
 
 <!--
