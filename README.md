@@ -25,11 +25,10 @@
 
 | Название проекта | Инструменты |
 |------------------|-------------|
-| [Машинное обучение / ML](https://github.com/sunnyskylemon/ML) | `Python`, `NumPy`, `Keras` |
-| [SQL Retention rate](#) | `PostgreSQL` |
-| [SQL и авиалинии](#) | `PostgreSQL` |
-| [Модель обнаружения неисправностей](#) | `NumPy`, `PyArrow`, `Dask`, `Sklearn` |
-| [Фотографии покупателей](#) | `Keras`, `Python` |
+| [Машинное обучение / ML](https://github.com/sunnyskylemon/ML) | `Python`, `NumPy`, `Keras`, `Pytorch`, `Sklearn` |
+| [Классическое машинное обучение / Calssical ML](https://github.com/sunnyskylemon/Classical-ML) | `Python`, `Pandas`, `NumPy` `Sklearn` |
+| [Архитектуры нейронных сетей / Neural Nets Architecture](https://github.com/sunnyskylemon/Neural-Nets) | `Python`, `NumPy`, `TensorFlow`, `Pytorch`, `Sklearn` |
+| [SQL и авиалинии](#) | `MySQL`, `Postgresql`, `PowerBI` |
 | [Токсичные комментарии](#) | `SciPy`, `TQDM` |
 | [Оценка стоимости авто](#) | `Sklearn`, `Plotly`, `LightGBM` |
 
