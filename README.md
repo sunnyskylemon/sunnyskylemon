@@ -1,6 +1,6 @@
 <h1 align="center">Елена Иванова</h1>
 
-### Middle Business Analyst - ML, Data Science, Analytics, DevOps.
+### ML, Data Science, Analytics, DevOps.
 
 ---
 Чтобы открыть в новой вкладке используй комбинацию: Клик + Ctrl (или Cmd на Mac):
@@ -25,7 +25,7 @@
 
 | Название проекта | Инструменты |
 |------------------|-------------|
-| [Интерактивный дашборд](#) | `HTML`, `Plotly` |
+| [Машинное обучение / ML](https://github.com/sunnyskylemon/ML) | `Python`, `NumPy`, `Keras` |
 | [SQL Retention rate](#) | `PostgreSQL` |
 | [SQL и авиалинии](#) | `PostgreSQL` |
 | [Модель обнаружения неисправностей](#) | `NumPy`, `PyArrow`, `Dask`, `Sklearn` |
